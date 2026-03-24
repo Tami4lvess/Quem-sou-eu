@@ -2,10 +2,9 @@ HII, Eu sou a Tamires <br>
 Estudante de desenvolvimento de sistemas !!<br>
 
 <div>
-  <a href="https://github.com/Bribss">
+  <a href="https://github.com/Tami4lvess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tami4lvess&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tami4lvess&layout=compact&langs_count=7&theme=omni"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tami4lvess&layout=compact&langs_count=7&theme=omni"/>   
 </div>
 <div>  
   
